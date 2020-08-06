@@ -8,3 +8,6 @@ i. charactervcount  ii. character stuffing and iii. bit stuffing
 
 1.
 2.
+
+output:
+![output](mobile.jpg)
