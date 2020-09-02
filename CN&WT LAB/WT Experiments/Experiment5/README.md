@@ -8,4 +8,4 @@ Develop static pages(using  only HTML) of normal registration page.
 
 
 ### Output
-![output](screencapture-file-C-Users-Uma-Gudala-Desktop-3rd-1sem-wt-lab-register-html-2020-09-02-18_56_42.png)
+![output](registrationForm.png)
