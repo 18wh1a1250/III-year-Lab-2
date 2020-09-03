@@ -10,5 +10,5 @@ Implement the data link layer framing method such as Bit Stuffing.
 
 ### Output
 
-![output](bit.png)
+![output](bitstuffing.png)
 
