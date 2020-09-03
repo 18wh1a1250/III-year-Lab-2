@@ -9,4 +9,4 @@ Implement the data link layer framing method such as Character Stuffing.
 
 ### Output
 
-![output](character_Stuffing.png)
+![output](characterStuffing.png)
