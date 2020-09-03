@@ -8,7 +8,7 @@ int main(){
     scanf("%s",data);
     printf("\noriginal data : \n");
     printf("%s\n",data);
-    printf("\n\nafter character stuffing : DLESTX");
+    printf("\n\nafter character stuffing : DLESTX ");
     for(i=0;i<frames;i++){
         printf("%c",data[i]);
         if(data[i] == 'd'){
@@ -25,7 +25,7 @@ int main(){
         d = 0;
     }
 }
-    printf("DLEETX\n\n");
+    printf(" DLEETX\n\n");
     printf("Recived data after destuffing : ");
     printf("%s\n",data);
 
