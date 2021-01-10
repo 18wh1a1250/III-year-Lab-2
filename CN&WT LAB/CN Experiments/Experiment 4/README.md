@@ -13,4 +13,5 @@ Continue step2 until T contains n-1 edges where n is the number of vertices of G
 
 # Output:
 Broadcast Tree
+
 [output](broadcastTree.png)
