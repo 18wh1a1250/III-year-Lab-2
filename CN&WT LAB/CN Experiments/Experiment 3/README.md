@@ -19,8 +19,9 @@ In Go-Back-N ARQ, the frames are numbered sequentially as Go-Back-N ARQ sends th
 3.Now, the sender receives the acknowledgment of packet 2. After receiving the acknowledgment for packet 2, the sender sends the next packet. By repeating these steps we conclude the total transmissions required.
 
 # Output:
-Sliding Window
-![output]()
-
 Go-Back N Protocol
-![output](Go-Back N Protocol)
+![output](Go-Back N Protocol.png)
+
+Sliding Window
+![output](Sliding Window.png)
+
