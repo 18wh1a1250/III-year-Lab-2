@@ -3,7 +3,7 @@ Create a screen that has input boxes for User Name, Password, Address, Gender (r
 (a) Linear Layout
 # Output
 ![output](2a1.jpg)
-![output](2a2jpg)
+![output](2a2.jpg)
 ![output](2a3.jpg)
 ![output](2a4.jpg)
 ![output](2a5.jpg)
