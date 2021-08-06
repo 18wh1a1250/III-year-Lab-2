@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements FragmentListner{
         }else if (findViewById(R.id.activity_main_landscape)!=null){
             addCandidatesFragment();
             if(savedInstanceState==null){
-                addCandidateDescriptionFragment(R.id.fragmentContainer2,"Shivani");
+                addCandidateDescriptionFragment(R.id.fragmentContainer2,"Uma");
             }else{
 
                 addCandidateDescriptionFragment(R.id.fragmentContainer2,savedInstanceState.getString("selectedCandidate",null));
@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity implements FragmentListner{
     protected void onRestoreInstanceState(Bundle savedInstanceState) {
         super.onRestoreInstanceState(savedInstanceState);
         Log.i("OrintationChange","MainActivity onSaveInstanceState");
-        selectedCandidate = savedInstanceState.getString("selectedCandidate","Shivani");
+        selectedCandidate = savedInstanceState.getString("selectedCandidate","Uma");
     }
 
     private void addCandidatesFragment(){
