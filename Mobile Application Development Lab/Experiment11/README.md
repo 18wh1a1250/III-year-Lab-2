@@ -1,6 +1,6 @@
 ## Experiment 11
 
 # Output
-![output](Spclear.jpg)
-![output](Spsave.jpg)
-![output](Spshow.jpg)
+![output](sp1.jpeg)
+![output](sp2.jpeg)
+![output](sp3.jpeg)
