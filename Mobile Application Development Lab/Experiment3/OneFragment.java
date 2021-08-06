@@ -58,7 +58,7 @@ public class OneFragment extends Fragment {
 
         }else {
             Bundle bundle = getArguments();
-            candidateName = bundle.getString(FragmentListner.KEY_SELECTED_CANDIDATE,"Shivani");
+            candidateName = bundle.getString(FragmentListner.KEY_SELECTED_CANDIDATE,"Uma");
             candidateDescription = getString(getStringId(candidateName));
             textViewCandidateDescription.setText(candidateDescription);
 
